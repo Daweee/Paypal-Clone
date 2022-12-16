@@ -1,6 +1,6 @@
 # paypal_clone
 
-A new Flutter project.
+For Mobile Finals
 
 ## Getting Started
 
